@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/  <-- Commented out because it contains code in this project
 lib64/
 parts/
 sdist/
