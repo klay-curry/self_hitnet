@@ -1,0 +1,10 @@
+torch>=1.12.0
+torchvision
+opencv-python
+numpy
+albumentations==1.3.0
+pycocotools
+timm==0.9.12
+matplotlib
+tqdm
+scipy
